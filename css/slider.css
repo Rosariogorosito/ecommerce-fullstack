@@ -1,0 +1,22 @@
+.slider .image-1 {
+    width: 100%;
+    height: 100px;
+    background-image: url('../images/slide-note.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.slider .image-2 {
+    width: 100%;
+    height: 100px;
+    background-image: url('../images/ilustracion-banner-tecnologia-computadora-escritorio_107791-7920.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slider .image-3 {
+    width: 100%;
+    height: 100px;
+    background-image: url('../images/istockphoto-1251573621-170667a.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
